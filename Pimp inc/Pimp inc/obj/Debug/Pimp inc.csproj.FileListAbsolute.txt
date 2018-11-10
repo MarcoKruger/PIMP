@@ -1,0 +1,91 @@
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\ApplicationInsights.config
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Pimp inc.dll.config
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Pimp inc.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Pimp inc.pdb
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\csc.exe
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\csc.exe.config
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\csc.rsp
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\csi.exe
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\csi.exe.config
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\csi.rsp
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.AppContext.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Console.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\vbc.exe
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\vbc.exe.config
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\vbc.rsp
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Antlr3.Runtime.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.Web.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Newtonsoft.Json.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Helpers.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Mvc.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Optimization.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Razor.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.WebPages.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\WebGrease.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Helpers.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Mvc.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Optimization.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.Razor.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.WebPages.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Newtonsoft.Json.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Antlr3.Runtime.pdb
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.AI.Web.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\obj\Debug\Pimp inc.csprojAssemblyReference.cache
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\obj\Debug\Pimp inc.csproj.CoreCompileInputs.cache
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\obj\Debug\Pimp inc.csproj.CopyComplete
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\obj\Debug\Pimp inc.dll
+C:\Users\Tyrone\Documents\Programming\Pimp inc\Pimp inc\obj\Debug\Pimp inc.pdb
